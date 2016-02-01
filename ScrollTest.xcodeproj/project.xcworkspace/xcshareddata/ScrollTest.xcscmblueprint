@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "844f26d2-16eb-45fd-b105-aa35f32b8e26",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "844f26d2-16eb-45fd-b105-aa35f32b8e26" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "844f26d2-16eb-45fd-b105-aa35f32b8e26" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BCD1A344-1AD1-4A63-AB20-A78B766A4D79",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "844f26d2-16eb-45fd-b105-aa35f32b8e26" : "hobby\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ScrollTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Test\/ScrollTest\/ScrollTest.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/127.0.0.1",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "844f26d2-16eb-45fd-b105-aa35f32b8e26"
+    }
+  ]
+}
